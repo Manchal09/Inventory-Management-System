@@ -21,7 +21,7 @@ A simple Inventory Management System developed using *Python, **Tkinter, and **S
 
 ### Prerequisites
 
-Make sure Python is installed on your system. You can download it from [python.org](https://www.python.org/).
+Make sure VS code is installed on your system. You can download it. 
 
 ### How to Run
 
@@ -29,5 +29,4 @@ Make sure Python is installed on your system. You can download it from [python.o
 2. Open the folder in your IDE (e.g., VS Code)
 3. Run the main file (e.g., main.py or inventory.py)
 
-```bash
-python inventory.py
+
